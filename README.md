@@ -1,5 +1,5 @@
 # Library included
- 1.https://www.arduino.cc/reference/en/libraries/servo/ "\n"
+ 1.https://www.arduino.cc/reference/en/libraries/servo/ "/n"
  2.https://www.arduino.cc/en/Reference/LiquidCrystal
 ## Project working
  1.when person is present then while light glows
